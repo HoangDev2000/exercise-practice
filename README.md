@@ -1,3 +1,3 @@
 Some descriptions in here!
 
-# Watch tutorial on YouTube
+# Dive deeply Deep Learning field
