@@ -1,3 +1,3 @@
 Some descriptions in here!
 
-# Dive deeply Deep Learning field
+# Dive deeply to the Deep Learning field
